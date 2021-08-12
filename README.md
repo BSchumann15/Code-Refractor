@@ -1,6 +1,7 @@
 # Code Refractor
 
 ## Link
+https://bschumann15.github.io/Code-Refractor/
 
 ## Description
 This project was built to help develop my understanding of HTML and CSS by using proper semantic elements.
